@@ -24,3 +24,6 @@ jobs:
           config_timezone: Europe/Moscow
           plugin_followup: yes
           plugin_gists: yes
+          plugin_projects: yes
+          plugin_projects_limit: 3
+          repositories_affiliations: 
