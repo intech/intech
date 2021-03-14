@@ -20,7 +20,7 @@ jobs:
           # Options
           user: intech
           template: classic
-          base: activity, community, repositories, metadata
+          base: header, activity, community, repositories, metadata
           config_timezone: Europe/Moscow
           plugin_followup: yes
           plugin_gists: yes
