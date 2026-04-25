@@ -1,7 +1,7 @@
-<p align="center"><a href="https://search.agent.spot"><img width="2400" height="1260" alt="og-image" src="https://github.com/user-attachments/assets/0e87973e-5700-4dd4-a1f4-114a31d203ea" alt="https://search.agent.spot" /></a>
+<p align="center"><a href="https://search.agent.spot/?utm_source=github&utm_medium=social&utm_content=banner&utm_campaign=intech"><img width="2400" height="1260" alt="og-image" src="https://github.com/user-attachments/assets/0e87973e-5700-4dd4-a1f4-114a31d203ea" alt="https://search.agent.spot" /></a>
 <table>
   <tr>
-    <td align="center"><a href="https://search.agent.spot">https://search.agent.spot</a></td>
+    <td align="center"><a href="https://search.agent.spot/?utm_source=github&utm_medium=social&utm_content=link&utm_campaign=intech">https://search.agent.spot</a></td>
     <td align="center">Telegram <a href="https://t.me/DigestAtlasAI">Atlas - AI Digest</a></td>
   </tr>
 </table></p>
