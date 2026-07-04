@@ -2,7 +2,10 @@
 <table>
   <tr>
     <td align="center"><a href="https://search.agent.spot/?utm_source=github&utm_medium=social&utm_content=link&utm_campaign=intech">https://search.agent.spot</a></td>
-    <td align="center">Telegram <a href="https://t.me/DigestAtlasAI">Atlas - AI Digest</a></td>
+    <td><b>Atlas - Weekly AI Digest</b></td>
+    <td align="center"><a href="https://search.agent.spot/weekly?utm_source=github&utm_medium=social&utm_content=link&utm_campaign=intech">Web Digest</a></td>
+    <td align="center"><a href="https://x.com/@AtlasAI_Digest">X Digest</a></td>
+    <td align="center"><a href="https://t.me/DigestAtlasAI">Telegram Digest</a></td>
   </tr>
 </table></p>
 <hr />
